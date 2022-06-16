@@ -2,6 +2,10 @@
 - 👀 I’m interested in learning new technologies, front-end development and data science.
 - 🌱 I’m currently learning Python and React.
 
+- 👋 Bonjour, je suis @dodelvalle. En ce moment, je suis étudiant à la maîtrise en informatique à l'Université de Sherbrooke.
+- 👀 Je suis intéressé par l'apprentissage des nouvelles technologies, le développement front-end et la science des données.
+- 🌱 Je suis en train d'apprendre Python et React.
+
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
